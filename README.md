@@ -8,3 +8,4 @@ These phrases are saved every time you make an action and will be ready to use e
 You can drag and move the window as you wish for convenience, and click on the bubble to change its text!
 
 Note: It will be running always on top, it is also a transparent window but it can be closed with by right clicking -> Exit.
+Note2: This is still a work in progress, report bugs and failures please or else I will cry.
